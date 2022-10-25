@@ -1,0 +1,36 @@
+[
+  {
+    "name": "help",
+    "src": "./Commands/help.js"
+  },
+  {
+    "name": "echo",
+    "src": "./Commands/echo.js"
+  },
+  {
+    "name": "search",
+    "src": "./Commands/search.js"
+  },
+  {
+    "name": "open",
+    "src": "./Commands/open.js"
+  },
+  {
+    "name": "system",
+    "src": "./Commands/system.js"
+  },
+  {
+    "name": "theme"
+  },
+  {
+    "name": "search-engine",
+    "src": "./Commands/searchEngine.js"
+  },
+  {
+    "name": "clear"
+  },
+  {
+    "name": "about",
+    "src": "./Commands/about.js"
+  }
+]

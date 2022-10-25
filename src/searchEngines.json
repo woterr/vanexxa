@@ -1,0 +1,38 @@
+[
+  {
+    "name": "google",
+    "path": "https://google.com/search?q="
+  },
+  {
+    "name": "duckduckgo",
+    "path": "https://duckduckgo.com/?q="
+  },
+  {
+    "name": "qwant",
+    "path": "https://qwant.com/?l=en&q="
+  },
+  {
+    "name": "brave",
+    "path": "https://search.brave.com/search?q="
+  },
+  {
+    "name": "bing",
+    "path": "https://bing.com/search?q="
+  },
+  {
+    "name": "yandex",
+    "path": "https://yandex.com/search/?text="
+  },
+  {
+    "name": "ask",
+    "path": "https://www.ask.com/web?q="
+  },
+  {
+    "name": "ecosia",
+    "path": "https://ecosia.org/search?method=index&q="
+  },
+  {
+    "name": "startpage",
+    "path": "https://startpage.com/do/search?q="
+  }
+]
