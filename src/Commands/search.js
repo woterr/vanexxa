@@ -9,7 +9,7 @@ const search = function (inp) {
   }
 
   if (inp.trim().length !== 0) {
-    window.open(`${searchEngine}${inp}`, "noopener,noreferrer");
+    window.open(`${searchEngine}${inp}`, "_self", "noopener,noreferrer");
     return (
       <a href={`${searchEngine}${inp}`} className="link">
         {inp}
