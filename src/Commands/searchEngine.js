@@ -33,7 +33,7 @@ const searchEngine = function (inp) {
         <p>
           Usage:{" "}
           <code>
-            <span className="bold">search-engine {"<value | path>"}</span>
+            <span className="bold">search-engine {"<value>"}</span>
           </code>{" "}
           <br />
           The available Search Engines are:

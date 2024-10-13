@@ -120,14 +120,13 @@ function App() {
       let commandOutputTest;
       if (commands.some((el) => el.name === inp)) {
         if (inp === "help") {
-          const output = help();
-          commandOutputTest = output;
+          commandOutputTest = help();
         }
         if (inp === "echo") {
-          const output = echo(event.target.value);
-          commandOutputTest = output;
+          commandOutputTest = echo(event.target.value);
         }
         if (inp === "search") {
+          
           const output = search(
             filter(event.target.value.toLowerCase().split(" "))
           );
